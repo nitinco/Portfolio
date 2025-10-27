@@ -49,7 +49,7 @@ const Projects = () => {
         "Integrated open street API for real-time Location updates",
         "Category-based Location filtering and search",
         "Optimized performance for seamless user experience",
-        ""
+        
       ],
       technologies: ["React", "Leaflet JS", "JavaScript","MUI", "Open Street Maps API"]
     }
