@@ -41,7 +41,7 @@ const Contact = () => {
                 <Phone className="h-5 w-5 text-primary shrink-0" />
                 <div>
                   <p className="text-xs sm:text-sm text-muted-foreground">Phone</p>
-                  <p className="font-medium break-all">966440502</p>
+                  <p className="font-medium break-all">9664440502</p>
                 </div>
               </a>
             </div>
